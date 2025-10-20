@@ -8,7 +8,7 @@ INSERT INTO STUDY_GROUP (NAME, AGE, BEST_SUBJECT, WEAKEST_SUBJECT) VALUES
 
 ('Ven', 12, 'Math', 'Art'),
 ('Ollie', 12, 'Math', 'Science'),
-('Kiana', 12, 'Geography', 'Literacy'),
+('Kiana', 12, 'Math', 'Art'),
 ('Kat', 13, 'Math', 'Science');
 
 SELECT * FROM STUDY_GROUP;
